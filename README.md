@@ -8,5 +8,9 @@ descripción :  repositorio creado con la finalidad de demostrar mis conocimient
 
 
 
-Evidencia T2: Configuración de entorno, control de versiones local 
+Evidencia T2: Configuración de entorno, control de versiones local
+
+
+
+Control de cambios : Se verifica que el repositorio local no tiene cambios pendientes.
 
