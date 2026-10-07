@@ -6,3 +6,7 @@ proyecto : T2\_Celi\_Alanya
 
 descripción :  repositorio creado con la finalidad de demostrar mis conocimientos sobre GIT.
 
+
+
+Evidencia T2: Configuración de entorno, control de versiones local 
+
